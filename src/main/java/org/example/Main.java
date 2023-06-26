@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Anh Quang Tuấn!");
 
+        System.out.println("Anh là Bá Lâm so sad!");
+
     }
 }
